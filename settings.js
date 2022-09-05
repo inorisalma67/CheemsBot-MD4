@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//© 2022 Xeon Bot Inc. 𝐌𝐎𝐍𝐊𝐄𝐘 𝐃 𝐋𝐔𝐅𝐅𝐘  Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
@@ -31,7 +31,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://n9.cl/13tj4': 'your key',
 }
 
 
@@ -61,16 +61,16 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.owner = ['967776711253']
+global.ownertag = '967776711253' //ur tag number
+global.botname = '𝐌𝐎𝐍𝐊𝐄𝐘 𝐃 𝐋𝐔𝐅𝐅𝐘 ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/KaV9GY8bbNRCOiUzQCOjBb" //your theme url which will be displayed on whatsapp
+global.websitex = "https://n9.cl/13tj4" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/KaV9GY8bbNRCOiUzQCOjBb' //script link
+global.reactmoji = "♦️" //ur menu react emoji
+global.themeemoji = "♦️" //ur theme emoji
+global.packname = "*┇【𝐋 𝐎 𝐑  《𓆩♦️𓆪》𝐊.𝐆.𝐃 】┇*\n\n\n\n\n\n\n\n\n\n\n " //ur sticker watermark packname
+global.author = "*┇【𝐋 𝐎 𝐑  《𓆩♦️𓆪》𝐊.𝐆.𝐃 】┇*" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['967776711253'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
